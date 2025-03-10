@@ -44,6 +44,7 @@
 
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustavozBTI&theme=dracula&hide_border=true&mode=weekly&border_radius=10" />
+  <img width=55% align="center"  src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GustavozBTI&theme=dracula&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" />
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavozBTI&layout=compact&langs_count=8&hide_border=true&card_width=50%&theme=dracula" />
 </div>
 
